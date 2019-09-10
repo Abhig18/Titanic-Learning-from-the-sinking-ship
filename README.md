@@ -1,0 +1,2 @@
+# Titanic:Learning from the sinking ship
+ Using data analysis, the following points were explored : 1.) Who were the passengers on the Titanic? (Ages,Gender,Class,..etc) 2.) What deck were the passengers on and how does that relate to their class? 3.) Where did the passengers come from? 4.) Who was alone and who was with family? Then we'll dig deeper, with a broader question : 5.) What factors helped someone survive the sinking?
